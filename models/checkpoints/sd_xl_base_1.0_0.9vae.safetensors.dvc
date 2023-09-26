@@ -1,0 +1,5 @@
+outs:
+- md5: 86b0f3400706c97ecb8efbed8146b373
+  size: 6938078334
+  hash: md5
+  path: sd_xl_base_1.0_0.9vae.safetensors
